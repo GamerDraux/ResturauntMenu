@@ -6,31 +6,18 @@ import java.util.Date;
 
 
 public class Menu {
-    private Date lastUpdated = new Date();
+    private ArrayList<MenuItem> menu =
+            new ArrayList<MenuItem>();
 
-    protected Menu(Date lastUpdated){
-        this.lastUpdated= lastUpdated;
+    public void addItem(MenuItem menuItem){
+        menu.add(menuItem);
     }
 
-    protected ArrayList<MenuItem> getAppetizers(){
-//        Create an appetizer ArrayList here
+    public void removeItem(MenuItem menuItem){
+        menu.remove(menuItem);
     }
 
-    protected ArrayList<MenuItem> getMainCourses(){
-//        Create a main course ArrayList here
-    }
 
-    protected ArrayList<MenuItem> getDesserts(){
-//        create a dessert course ArrayList here
-    }
-
-    protected ArrayList<MenuItem> getPriceList(){
-//        create an arraylist of items under a certain price
-    }
-
-    protected ArrayList<MenuItem> getFullList(){
-//        create an arraylist of the full menu here
-    }
 
 
 }

@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa7831b-25a3-44c9-85f2-82732a4eaa6e" name="Default Changelist" comment="" />
+    <list default="true" id="faa7831b-25a3-44c9-85f2-82732a4eaa6e" name="Default Changelist" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/../../exercises/Chapter4/School/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/Chapter4/School/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/Chapter4/School/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/Chapter4/School/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/CharacterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/TextInput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../areaofacircle/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter2/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../areaofacircle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demos/lsn3classes1/SchoolPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demos/lsn3classes1/SchoolPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demos/lsn3classes1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demos/lsn3classes1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demos/lsn4classes2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demos/lsn4classes2/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demos/lsn4classes2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demos/lsn4classes2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/Alice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ArrayListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/ArrayListPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ArrayPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/ArrayPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/Fibanocci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/Fibanocci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/GreenEggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/GreenEggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/MPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/MPG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/StudentIDHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/Chapter3/StudentIDHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bSaKv3igmpV9UcEoPkakO6C5VZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,6 +55,48 @@
       <option name="presentableId" value="Default" />
       <updated>1588627887706</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1588628035582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588628035582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1588628248890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588628248890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="42" y="0" key="CommitChangelistDialog2" timestamp="1588628248061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="42" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588628248061" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1588627916354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588627916354" />
+    <state x="546" y="266" key="Github.ShareDialog" timestamp="1588627934394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1588627934394" />
+    <state x="189" y="0" key="Github.UntrackedFilesDialog" timestamp="1588627955189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="189" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588627955189" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1588628250681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588628250681" />
   </component>
 </project>
